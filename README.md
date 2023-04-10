@@ -52,7 +52,6 @@ https://github.com/FernyCastro8/Note_Taker_app-mod11.git
 https://fernycastro8.github.io/Note_Taker_app-mod11/
 
 - Heroku
-
 https://git.heroku.com/noter-taker.git
 
 - [Screen Shot]
