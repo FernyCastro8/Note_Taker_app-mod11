@@ -4,7 +4,6 @@ const express = require('express');
 const path = require('path');
 const apiRoutes = require('./routes/api_routes');
 const htmlRoutes = require('./routes/html_routes');
-/* const util = require('util') */
 const PORT = process.env.PORT || 3001;
 
  
@@ -24,22 +23,3 @@ app.use('/', htmlRoutes)
 app.listen(PORT, () => {
     console.log('Server listening on: http://localhost' + PORT)
 });
-
-
-
-
-
-
-
-
-
-// then =>
-
-    // API Route ( "Get" reques )
-    // @ ("./develop/db/db.json")
-
-    // API Route ( "Post" request )
-    // @ ("./develop/db/db.json")
-
-    // API Route ( "Delete" request ) | OPTIONAL
-
