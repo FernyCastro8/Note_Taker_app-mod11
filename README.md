@@ -11,7 +11,7 @@ The Note Taker App is a simple web application built with Node.js and Express th
 - [Credits](#credits)
 - [License](#license)
 - [Features](#)
-- [Screen-Shots](#screenshots)
+- [Demo](#demo)
 
 ---
 ## Installation
@@ -67,5 +67,5 @@ Copyright (c) 2023 Ferny Castro
 - Delete Notes: Users can delete individual notes when they are no longer needed.
 - Unique IDs: Each note is assigned a unique ID using the uuid module, ensuring that notes can be easily identified and managed.
 
-## screenshots
+## Demo
 
