@@ -1,5 +1,7 @@
 # Note Taker
 
+###### Visit depoly 🔗 [Link](https://note-taker-app-mod11.herokuapp.com/)
+
 ## Description
 
 The Note Taker App is a simple web application built with Node.js and Express that allows users to create, retrieve, and delete notes. It provides a convenient way to jot down important information, tasks, or ideas, and organize them digitally.
@@ -68,6 +70,8 @@ Copyright (c) 2023 Ferny Castro
 - Unique IDs: Each note is assigned a unique ID using the uuid module, ensuring that notes can be easily identified and managed.
 
 ## Demo
+
+###### Visit depoly 🔗 [Link](https://note-taker-app-mod11.herokuapp.com/)
 
 https://github.com/FernyCastro8/Note_Taker_app-mod11/assets/124219457/a34b13c7-fa23-4674-9834-20c0dfa98f78
 
