@@ -64,10 +64,10 @@ Copyright (c) 2023 Ferny Castro
 ---
 ## Features
 
-- Create Notes: Users can create new notes by providing a title and content for each note.
-- View Notes: All created notes are displayed, allowing users to view their previously saved notes.
-- Delete Notes: Users can delete individual notes when they are no longer needed.
-- Unique IDs: Each note is assigned a unique ID using the uuid module, ensuring that notes can be easily identified and managed.
+- ``Create Notes:`` Users can create new notes by providing a title and content for each note.
+- ``View Notes:`` All created notes are displayed, allowing users to view their previously saved notes.
+- ``Delete Notes:`` Users can delete individual notes when they are no longer needed.
+- ``Unique IDs:`` Each note is assigned a unique ID using the uuid module, ensuring that notes can be easily identified and managed.
 
 ## Demo
 
