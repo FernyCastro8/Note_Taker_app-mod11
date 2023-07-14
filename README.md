@@ -1,8 +1,4 @@
-# Note Taker
- 
-#### output: html
-
-###### Node JS
+# Take Notes
 
 ---------------------------------------------------------------------
 ### Usage
@@ -39,6 +35,7 @@ package.json
 - FS
 - Express
 - uuid
+- Nodemon
 
 ---------------------------------------------------------------------
 
@@ -47,9 +44,6 @@ package.json
 
 - Github
 https://github.com/FernyCastro8/Note_Taker_app-mod11.git
-
-- URL
-https://fernycastro8.github.io/Note_Taker_app-mod11/
 
 - Heroku
 https://note-taker-app-mod11.herokuapp.com/
