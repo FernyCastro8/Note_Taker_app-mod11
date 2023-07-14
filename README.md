@@ -1,53 +1,71 @@
-# Take Notes
+# Note Taker
 
----------------------------------------------------------------------
-### Usage
+## Description
 
-```
-WHEN user opens the Note Taker,
-Its presented with a landing page with a link to a notes page.
+The Note Taker App is a simple web application built with Node.js and Express that allows users to create, retrieve, and delete notes. It provides a convenient way to jot down important information, tasks, or ideas, and organize them digitally.
 
-User then clicks on the link to the notes page.
-THEN app presents a page with existing notes listed in the left-hand column.
-Plus empty fields to enter a new note title and the note’s text in the right-hand column.
+## Table of Contents
 
-WHEN user enters a new note title and the note’s text,
-THEN a Save icon appears in the navigation at the top of the page.
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
+- [Features](#)
+- [Screen-Shots](#screenshots)
 
-User is to then click on the Save icon,
-THEN the new note I have entered is saved and appears in the left-hand column with the other existing notes.
+---
+## Installation
 
-User then clicks on an existing note in the list in the left-hand column,
-THEN that note appears in the right-hand column.
-
-```
-
----------------------------------------------------------------------
-
-### Installation
 software:
 - Node JS
 
-Modules:
+---
+##### modules / packages
 
-package.json
-
-- FS
 - Express
+- fs
 - uuid
 - Nodemon
 
----------------------------------------------------------------------
+---
+## Usage
 
+Once the Note Taker App is running and accessed in your web browser, follow these steps to use the app:
 
-#### Websites 
+1. On the homepage, click the ``"Get Started"`` button.
+2. You will be presented with the list of existing notes (if any).
+3. To create a new note, click the ``"Note Title"`` field and enter a title for your note.
+4. Click the ``"Note Text"`` field and enter the content of your note.
+5. Once you have entered the title and content, click the ``save icon`` (usually represented by a floppy disk or similar symbol) to save the note.
+6. Your note will now appear in the list of existing notes.
+7. To view the content of a note, simply click on the note's title.
+8. To delete a note, click the ``trash`` can icon next to the note you wish to delete.
 
-- Github
-https://github.com/FernyCastro8/Note_Taker_app-mod11.git
+---
+## Credits
 
-- Heroku
-https://note-taker-app-mod11.herokuapp.com/
+#### Ferny Castro 
 
-- [Screen Shot]
+[Github](https://github.com/FernyCastro8)
 
-![Screen Shot 2023-04-12 at 2 53 28 PM](https://user-images.githubusercontent.com/124219457/231557067-45601c8f-8385-435c-880b-0ba3e6dd96d7.png)
+[Linkedin](https://www.linkedin.com/in/ferny-castro/)
+
+---
+## License
+
+#### MIT License
+
+Copyright (c) 2023 Ferny Castro
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+---
+## Features
+
+- Create Notes: Users can create new notes by providing a title and content for each note.
+- View Notes: All created notes are displayed, allowing users to view their previously saved notes.
+- Delete Notes: Users can delete individual notes when they are no longer needed.
+- Unique IDs: Each note is assigned a unique ID using the uuid module, ensuring that notes can be easily identified and managed.
+
+## screenshots
+
