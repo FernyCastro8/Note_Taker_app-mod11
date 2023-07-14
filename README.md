@@ -1,6 +1,6 @@
 # Note Taker
 
-### Visit depoly 🔗 [Link](https://note-taker-app-mod11.herokuapp.com/)
+### Visit deployed 🔗 [Link](https://note-taker-app-mod11.herokuapp.com/)
 
 ## Description
 
@@ -71,7 +71,7 @@ Copyright (c) 2023 Ferny Castro
 
 ## Demo
 
-### Visit depoly 🔗 [Link](https://note-taker-app-mod11.herokuapp.com/)
+### Visit deployed 🔗 [Link](https://note-taker-app-mod11.herokuapp.com/)
 
 https://github.com/FernyCastro8/Note_Taker_app-mod11/assets/124219457/a34b13c7-fa23-4674-9834-20c0dfa98f78
 
